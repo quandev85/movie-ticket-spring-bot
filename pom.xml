@@ -10,6 +10,10 @@
     <packaging>pom</packaging>
     <modules>
         <module>movie-start</module>
+        <module>movie-controller</module>
+        <module>movie-application</module>
+        <module>movie-infrastructure</module>
+        <module>movie-domain</module>
     </modules>
 
     <properties>
